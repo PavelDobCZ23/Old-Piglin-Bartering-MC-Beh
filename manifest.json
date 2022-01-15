@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "This pack brings back the original bartering trades that were nerfed in 1.16.100. §1Made by PavelDobCZ23",
+        "name": "Old Piglin Bartering",
+        "uuid": "662a0005-5335-4621-9a62-062079252d6b",
+        "version": [ 1, 0, 0 ],
+        "min_engine_version": [ 1, 16, 100 ]
+    },
+    "modules": [
+        {
+            "description": "Old Piglin Bartering [BP] - behavior module",
+            "type": "data",
+            "uuid": "59916808-d476-4cf8-8b26-1eae946de10e",
+            "version": [1, 0, 0]
+        }
+    ]
+}
